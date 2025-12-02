@@ -91,10 +91,10 @@ while True:
     print("Server:", data)
 
 client_socket.close()
-
+```
 
 # Server setup
-```
+
 ```
 import socket
 
