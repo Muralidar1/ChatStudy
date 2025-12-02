@@ -121,6 +121,10 @@ conn.close()
 
 ```
 ## Result:
+<img width="587" height="161" alt="488785295-146a7684-a858-4419-9a2d-186387370c87" src="https://github.com/user-attachments/assets/11cdc2b1-1672-4258-8af5-0a9053fcce0d" />
+
+<img width="645" height="128" alt="488785465-c735396a-ffb3-4795-b3de-b2f873dbde5f" src="https://github.com/user-attachments/assets/0a67509d-fe5a-43f3-a590-bfe45c5320ca" />
+
 
 Thus the study on Client Server Chat Applications has been performed
 
