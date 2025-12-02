@@ -75,7 +75,7 @@ Client-server chat applications are foundational to real-time communication over
 
 
 # Client setup
-
+```
 import socket
 
 host = '127.0.0.1'   # Same as server
@@ -94,7 +94,8 @@ client_socket.close()
 
 
 # Server setup
-
+```
+```
 import socket
 
 host = '127.0.0.1'   # Localhost
@@ -118,7 +119,7 @@ while True:
 
 conn.close()
 
-
+```
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
